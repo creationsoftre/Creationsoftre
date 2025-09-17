@@ -70,9 +70,7 @@ Systems/Cloud Engineer with deep experience in healthcare IT and DevOps automati
 ## 📊 GitHub Stats
 
 <!-- Streak (stable endpoint) -->
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=creationsoftre&theme=radical&hide_border=false" alt="GitHub Streak"/>
-</div>
+[![GitHub Streak](https://streak-stats.demolab.com?user=creationsoftre&theme=dark)](https://git.io/streak-stats)
 
 <br/>
 
@@ -81,9 +79,6 @@ Systems/Cloud Engineer with deep experience in healthcare IT and DevOps automati
   <img src="https://github-readme-stats.vercel.app/api?username=creationsoftre&theme=radical&hide_border=false&include_all_commits=true&count_private=true" height="192px" width="49.5%" alt="GitHub Stats"/>
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=creationsoftre&theme=radical" height="192px" width="49.5%" alt="Contribution Summary"/>
 </div>
-
-<!-- Optional: Activity graph (comment out if noisy) -->
-[Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=creationsoftre&custom_title=creationsoftre%20GitHub%20Activity%20Graph&area=true&theme=redical)
 
 
 
