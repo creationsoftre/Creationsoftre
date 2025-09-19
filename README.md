@@ -10,8 +10,7 @@
   <!-- WakaTime badge -->
   <a href="https://wakatime.com/@creationsoftre" style="margin-right:4px;">
     <img 
-      src="https://img.shields.io/badge/WakaTime-Total%20Coding%20Time-blue?style=for-the-badge&logo=wakatime&logoColor=white" 
-      alt="Total time coded" 
+      src="https://wakatime.com/badge/user/d05d1037-f858-421d-a0ed-3b201a2abdbd.svg" alt="Total time coded since Sep 17 2025"
       style="height:28px; vertical-align:middle;" 
     />
   </a>
