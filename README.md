@@ -1,27 +1,45 @@
-<!-- Profile Views (reliable) -->
-<img align="right" src="https://komarev.com/ghpvc/?username=creationsoftre&style=for-the-badge&label=Profile%20Views" alt="Profile Views"/>
-
-<!-- Badges Row -->
+<!-- All badges row (including Profile Views) -->
 <p align="left">
-  <!-- WakaTime badge (UUID-based) -->
-  <a href="https://wakatime.com/@creationsoftre">
-    <a href="https://wakatime.com/@d05d1037-f858-421d-a0ed-3b201a2abdbd"><img src="https://wakatime.com/badge/user/d05d1037-f858-421d-a0ed-3b201a2abdbd.svg" alt="Total time coded since Sep 17 2025" /></a>
-  </a>
-  <!-- Followers -->
-  <a href="https://github.com/creationsoftre?tab=followers">
-    <img src="https://img.shields.io/github/followers/creationsoftre?style=for-the-badge&label=Followers" alt="Followers"/>
-  </a>
-  <!-- Total Stars (owner + collaborator) -->
-  <a href="https://github.com/creationsoftre">
-    <img src="https://img.shields.io/github/stars/creationsoftre?affiliations=OWNER%2CCOLLABORATOR&style=for-the-badge&label=Total%20Stars" alt="Stars"/>
-  </a>
-  <!-- Last Update (this repo) -->
-  <img src="https://img.shields.io/github/last-commit/creationsoftre/creationsoftre?style=for-the-badge&label=Last%20Update" alt="Last Update"/>
-</p>
+  <!-- Profile Views -->
+  <img 
+    src="https://komarev.com/ghpvc/?username=creationsoftre&style=for-the-badge&label=Profile%20Views" 
+    alt="Profile Views" 
+    style="height:28px; vertical-align:middle; margin-right:4px;"
+  />
 
-<h1 align="center">Hi, I'm Trevonte Wigfall</h1>
-<p align="center">
-  <b>Systems & Cloud Engineer • DevOps & Automation</b><br/>
+  <!-- WakaTime badge -->
+  <a href="https://wakatime.com/@creationsoftre" style="margin-right:4px;">
+    <img 
+      src="https://img.shields.io/badge/WakaTime-Total%20Coding%20Time-blue?style=for-the-badge&logo=wakatime&logoColor=white" 
+      alt="Total time coded" 
+      style="height:28px; vertical-align:middle;" 
+    />
+  </a>
+
+  <!-- Followers -->
+  <a href="https://github.com/creationsoftre?tab=followers" style="margin-right:4px;">
+    <img 
+      src="https://img.shields.io/github/followers/creationsoftre?style=for-the-badge&label=Followers" 
+      alt="Followers" 
+      style="height:28px; vertical-align:middle;" 
+    />
+  </a>
+
+  <!-- Total Stars -->
+  <a href="https://github.com/creationsoftre" style="margin-right:4px;">
+    <img 
+      src="https://img.shields.io/github/stars/creationsoftre?affiliations=OWNER%2CCOLLABORATOR&style=for-the-badge&label=Total%20Stars" 
+      alt="Stars" 
+      style="height:28px; vertical-align:middle;" 
+    />
+  </a>
+
+  <!-- Last Update -->
+  <img 
+    src="https://img.shields.io/github/last-commit/creationsoftre/creationsoftre?style=for-the-badge&label=Last%20Update" 
+    alt="Last Update" 
+    style="height:28px; vertical-align:middle;" 
+  />
 </p>
 
 ---
