@@ -3,9 +3,9 @@
 
 <!-- Badges Row -->
 <p align="left">
-  <!-- WakaTime badge (UUID-based) 
+  <!-- WakaTime badge (UUID-based) -->
   <a href="https://wakatime.com/@creationsoftre">
-    <img src="https://wakatime.com/badge/user/@creationsoftre.svg?style=for-the-badge" alt="WakaTime Badge"/>
+    <a href="https://wakatime.com/@d05d1037-f858-421d-a0ed-3b201a2abdbd"><img src="https://wakatime.com/badge/user/d05d1037-f858-421d-a0ed-3b201a2abdbd.svg" alt="Total time coded since Sep 17 2025" /></a>
   </a>
   <!-- Followers -->
   <a href="https://github.com/creationsoftre?tab=followers">
@@ -69,10 +69,10 @@ Systems/Cloud Engineer with deep experience in healthcare IT and DevOps automati
 
 ## 📊 GitHub Stats
 
-<!-- Streak (stable endpoint) -->
-[![GitHub Streak](https://streak-stats.demolab.com?user=creationsoftre&theme=dark)](https://git.io/streak-stats)
+<!-- Streak (stable endpoint) 
+<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=creationsoftre&theme=dark" alt="GitHub Streak" /></a>
 
-<br/>
+<br/>-->
 
 <!-- Core stats + profile details -->
 <div align="center">
