@@ -3,9 +3,9 @@
 
 <!-- Badges Row -->
 <p align="left">
-  <!-- WakaTime badge (UUID-based) — replace YOUR-WAKATIME-UUID -->
+  <!-- WakaTime badge (UUID-based) 
   <a href="https://wakatime.com/@creationsoftre">
-    <img src="https://wakatime.com/badge/user/YOUR-WAKATIME-UUID.svg?style=for-the-badge" alt="WakaTime Badge"/>
+    <img src="https://wakatime.com/badge/user/@creationsoftre.svg?style=for-the-badge" alt="WakaTime Badge"/>
   </a>
   <!-- Followers -->
   <a href="https://github.com/creationsoftre?tab=followers">
