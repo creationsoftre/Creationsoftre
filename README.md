@@ -76,11 +76,11 @@ Systems/Cloud Engineer with deep experience in healthcare IT and DevOps automati
 ![Terraform](https://img.shields.io/badge/Terraform-623CE4.svg?style=for-the-badge&logo=terraform&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 
----
 
-## ⏱️ Coding Activity (WakaTime)
+
+<!--  ## ⏱️ Coding Activity (WakaTime) -->
 <!-- WakaTime card uses your WakaTime USERNAME (after the @ in your profile URL) -->
-<img src="https://github-readme-stats.vercel.app/api/wakatime?username=creationsoftre&layout=compact&theme=radical&hide_border=false&cache_seconds=1800&v=1" alt="WakaTime Stats" />
+<!-- <img src="https://github-readme-stats.vercel.app/api/wakatime?username=creationsoftre&layout=compact&theme=radical&hide_border=false&cache_seconds=1800&v=1" alt="WakaTime Stats" /> -->
 
 ---
 
