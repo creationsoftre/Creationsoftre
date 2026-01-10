@@ -82,9 +82,9 @@ Systems/Cloud Engineer with deep experience in healthcare IT and DevOps automati
 <!-- WakaTime card uses your WakaTime USERNAME (after the @ in your profile URL) -->
 <!-- <img src="https://github-readme-stats.vercel.app/api/wakatime?username=creationsoftre&layout=compact&theme=radical&hide_border=false&cache_seconds=1800&v=1" alt="WakaTime Stats" /> -->
 
----
 
-## 📊 GitHub Stats
+
+<!-- ## 📊 GitHub Stats -->
 
 <!-- Streak (stable endpoint) 
 <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=creationsoftre&theme=dark" alt="GitHub Streak" /></a>
