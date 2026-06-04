@@ -44,7 +44,10 @@
 ---
 
 ## 🚀 Summary
-Systems/Cloud Engineer with deep experience in healthcare IT and DevOps automation. I build reliable, secure infrastructure and CI/CD with **Terraform**, **PowerShell**, and cloud tooling (Azure/AWS). Strong track record shipping stable releases, hardening access, and integrating platforms across Dev/QA/Prod.
+Systems Analyst Advisor and ClaimsXten Application SME with 7+ years of experience leading 
+enterprise application deployments and automation in regulated healthcare environments. Owns 
+monthly releases, automates deployment processes to reduce risk and errors, and coordinates 
+cross-functional teams to deliver secure, reliable application support.
 
 ---
 
